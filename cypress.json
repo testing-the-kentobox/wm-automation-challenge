@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://dev.workmarket.com/register/campaign/10081C503B209A0C8E7F05FDCC1AA98D4C904DEEF5F73265CAE38C744E7EAD3E",
+  "blacklistHosts": ["https://api.segment.io", "https://hn.inspectlet.com", "https://ekr.zdassets.com"],
+  "searchTalentUrl": "https://dev.workmarket.com/home"
+}
